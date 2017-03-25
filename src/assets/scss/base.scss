@@ -1,0 +1,23 @@
+body, html{
+  line-height: 1;
+  font-weight: 200;
+  font-family: "Microsoft YaHei", tahoma, arial, "Hiragino Sans GB", "\\5b8b体", sans-serif;;
+}
+
+.clearfix{
+  display: inline-block;
+  &:after{
+    display: block;
+    content: '';
+    height:0;
+    line-height:0;
+    clear: both;
+    visibility: hidden;
+  }
+}
+
+.oneline {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}

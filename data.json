@@ -1,0 +1,47 @@
+{
+  "company": {
+    "name": "新闻资讯",
+    "phone": "010-1234567",
+    "logoImg": "/static/img/logo.jpg",
+    "address": "上海市XX区XX路XX号XX大厦XX室",
+    "ICP": "沪ICP备123456789号-1",
+    "disclaimer": "本网站所刊登、转载的各种图片、稿件是为传播更多信息，本网站不承担此类稿件侵权行为的连带责任",
+    "menu": {
+      "bourse": [
+        "大圆普洱",
+        "黄山毛峰",
+        "六安瓜片",
+        "雨前龙井"
+      ]
+    },
+    "hotImg": [
+      "/static/img/banner1.jpg",
+      "/static/img/banner2.jpg",
+      "/static/img/banner3.jpg"
+    ],
+    "marquee": [
+      "关于银行资金调拨时间调整的通知",
+      "会员下单签约须知",
+      "周末浪报欢迎您的访问"
+    ]
+  },
+  "news": {
+    "newsImg": [
+       "/static/img/newsImg1.jpg",
+       "/static/img/newsImg2.jpg",
+       "/static/img/newsImg3.jpg"
+      ],
+    "hotNews": [
+      {
+        "title": "普洱茶价年内或将止跌回升",
+        "content": "普洱茶价格在经历其固定价格周期底部低位后，今年价格或将止跌回升"
+      }, {
+        "title": "安溪秋茶采制过半 销售量价齐升",
+        "content": "据预测，今年安溪铁观音秋茶在国内各销区销售情况，较去年同期相比有“回暖”迹象"
+      }, {
+        "title": "国际茶人雅集千年古镇“弘道论茶”",
+        "content": "太湖之滨的千年巡塘古镇，以“茶文化的前世今生”为主题的书香茶论暨国际茶文化年会第一回"
+      }
+    ]
+  }
+}
